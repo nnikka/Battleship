@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\scripts\ShipsButtonController.cs" Line="34" Column="20" />
+      <File FileName="Assets\scripts\GridController.cs" Line="166" Column="23" />
+      <File FileName="Assets\scripts\ArrowButtonController.cs" Line="21" Column="11" />
+      <File FileName="Assets\scripts\DoneButtonController.cs" Line="11" Column="19" />
+      <File FileName="Assets\scripts\PlayerController.cs" Line="38" Column="37" />
+      <File FileName="Assets\scripts\GameController.cs" Line="45" Column="26" />
+      <File FileName="Assets\scripts\CellController.cs" Line="43" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
